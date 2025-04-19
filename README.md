@@ -1,6 +1,6 @@
-# Study Notion
+# Online Study
 
-Study Notion is an ED Tech (Education Technology) web application developed using the MERN stack.
+Online Study is an ED Tech (Education Technology) web application developed using the MERN stack.
 
 ## Note
 
@@ -10,7 +10,7 @@ This project is intended as a learning tool and can be used as a sample project 
 ***
 ## Features
 
-* User Authentication: Study Notion provides secure user registration and authentication using JWT (JSON Web Tokens). Users can sign up, log in, and manage their 
+* User Authentication: Online Study provides secure user registration and authentication using JWT (JSON Web Tokens). Users can sign up, log in, and manage their 
   profiles with ease.
   
 * Courses and Lessons: Instructors can create and edit created courses. Students can enroll in courses, access course materials, and track their progress.
