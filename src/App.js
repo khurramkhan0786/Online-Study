@@ -43,12 +43,12 @@ function App() {
   const dispatch = useDispatch();
   return (
     <div className=" w-screen min-h-screen bg-richblack-900 flex flex-col font-inter">
-      {/* <LoadingBar
+       <LoadingBar
         color="#FFD60A"
         height={1.4}
         progress={progress}
         onLoaderFinished={() => dispatch(setProgress(0))}
-      /> */}
+      /> 
       <NavBar setProgress={setProgress}></NavBar>
       {!navigator.onLine && (
         <div className="bg-red-500 flex text-white text-center p-2 bg-richblack-300 justify-center gap-2 items-center">
