@@ -1,4 +1,4 @@
-const BASE_URL ="https://online-study-0pk0.onrender.com";
+const BASE_URL = process.env.REACT_APP_BASE_URL
 
 // AUTH ENDPOINTS
 export const endpoints = {
