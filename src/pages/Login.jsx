@@ -4,8 +4,8 @@ import { login } from "../services/operations/authAPI"
 import { useDispatch } from "react-redux"
 import { useNavigate } from "react-router-dom"
 import { useState } from "react"
-import { TbCornerDownRightDouble } from "react-icons/tb"
-import { BsLightningChargeFill } from "react-icons/bs"
+// import { TbCornerDownRightDouble } from "react-icons/tb"
+// import { BsLightningChargeFill } from "react-icons/bs"
 
 function Login() {
   const [showDemo, setShowDemo] = useState(true)
